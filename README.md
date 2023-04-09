@@ -5,6 +5,7 @@ class 15Taksimetre {
     public static void main(String[] args) {
         double km,tutar,birkm;
         Scanner input=new Scanner(System.in);
+        
         System.out.println("Kaç KM gideceksiniz:");
         km=input.nextDouble();
         birkm=2.20;
