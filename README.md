@@ -1,5 +1,6 @@
 # taksi
 import java.util.Scanner;
+
 class 15Taksimetre {
     public static void main(String[] args) {
         double km,tutar,birkm;
